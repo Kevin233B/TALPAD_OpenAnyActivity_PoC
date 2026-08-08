@@ -5,3 +5,7 @@
 homepage活动仅作为示范，实际可以开启任意未导出活动（导出也一样）
 
 请在应用“Java编译器ide”中运行
+
+仅适用于学而思学习机
+
+By Kevin233(TALPAD-BOOM)
