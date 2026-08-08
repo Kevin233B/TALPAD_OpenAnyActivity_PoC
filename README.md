@@ -1,0 +1,1 @@
+# TALPAD_OpenAnyActivity_PoC
